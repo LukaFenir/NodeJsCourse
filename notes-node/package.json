@@ -1,0 +1,23 @@
+{
+  "name": "notes-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(ssh://github.com/LukaFenir/NodeJsCourse)"
+  },
+  "keywords": [
+    "notes",
+    "node",
+    "udemy"
+  ],
+  "author": "Laura Caldwell-Nichols",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
